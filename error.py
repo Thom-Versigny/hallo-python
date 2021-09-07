@@ -1,0 +1,1 @@
+while int(input("Press ENTER to roll the dice")):
